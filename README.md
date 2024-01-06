@@ -1,1 +1,2 @@
 Using OpenCV with Python to detect objects in a video
+ObjDet.ipynb is the Jupiter Notebook containing main code for this project. Video.mp4 in the same repo is used as the sample input video for this code.
